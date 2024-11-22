@@ -93,9 +93,9 @@ if (LOG_LEVEL >= DEBUG_LEVEL){
         
     //Variables needed for heating calculations in PBH
     float M_PBH;        
-    //float EFF_PBH;    
+    float EFF_PBH;    
     float L_Edd;
-    //float M_Edd;
+    float M_Edd;
     float m_dot;
     float L_PBH;
     float n_ion_PBH;
